@@ -1,4 +1,8 @@
 
-### Hi there! Welcome to Pablo's github! 👋
+### Hi there! 👋
+My name is Pablo Fraile Alonso, currently I'm studing a Computer Engineering degree at UdL.
+Feel free to learn and collaborate through my repos! 
 
-[![Pablo Fraile github stats](https://github-readme-stats.vercel.app/api?username=Pablito2020&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me: pablofrailealonso@gmail.com
+
+[![Pablo Fraile github stats](https://github-readme-stats.vercel.app/api?username=Pablito2020&show_icons=true&theme=nord)]
